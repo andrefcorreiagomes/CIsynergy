@@ -4,7 +4,7 @@ The two measures defined in TBD
 
 cisynergy.py contains the function for the computation of both measures.
 
-__init__.py contains some examples and reproduces the graph of Figure 3 and the synergy values of Table 9.
+The init file contains some examples and reproduces the graph of Figure 3 and the synergy values of Table 9.
 
 # Requirements
 
