@@ -16,3 +16,7 @@ After setting your working directory to the folder that has the setup.py file, s
 ```
 pip install .
 ```
+To execute the examples file, run
+```
+import cisynergy
+```
