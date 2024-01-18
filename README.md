@@ -11,8 +11,8 @@ Requires the [dit](https://github.com/dit/dit) library.
 
 # Instalation
 
-Simply run
+Run
 ```
 pip install .
 ```
-after setting your working directory.
+after setting your working directory to the folder that has the setup.py file.
