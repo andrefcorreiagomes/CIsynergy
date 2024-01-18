@@ -2,6 +2,8 @@
 
 The two measures defined in TBD
 
+# Contents
+
 cisynergy.py contains the function for the computation of both measures.
 
 The init file contains some examples and reproduces the graph of Figure 3 and the synergy values of Table 9.
