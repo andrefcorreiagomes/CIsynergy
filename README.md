@@ -1,6 +1,6 @@
 # Implementation of $I_\cup^{CI}$ and $S^{CI}$
 
-The two measures defined in https://www.mdpi.com/1099-4300/26/3/271
+The two measures defined in "A Measure of Synergy Based on Union Information" - https://www.mdpi.com/1099-4300/26/3/271
 
 # Contents
 
